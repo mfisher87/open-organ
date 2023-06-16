@@ -67,6 +67,9 @@ Perhaps physical control -> MIDI management could look like compiling firmware f
 I think there are more modern alternatives that don't require a compile step to reconfigure (ZMK?).
 It would be cool to be able to configure this somewhat like I configure my Uno-modded FCB1010.
 
+In addition to MIDI signals from the physical controls, should accept MIDI as an input for additional keyboards or foot controls.
+Should be capable of channel routing and MIDI re-mapping, perhaps with a VST?
+
 
 #### VST management
 
