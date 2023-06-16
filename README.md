@@ -73,6 +73,10 @@ It would be cool to be able to configure this somewhat like I configure my Uno-m
 * A base set of free VSTs, like Zynthian, available by default.
 * A schema for representing mappings between MIDI signals from the hardware to VST controls.
   Easily shareable, perhaps with a way to pull configs from Git repositories.
+  * What about a way to represent VST routing?
+    E.g. sidechain effects, or instruments that take an audio signal + MIDI signal (e.g. harmonizers)?
+    It would be awesome to take a line-level vocal signal or other instrument signal for effects which require multiple inputs.
+    It would _also_ be awesome if we could separately process the multiple input signals, e.g. playing keys with a guitarist and vocalist and managing processing in one unit.
 * Ability to load VSTs from flash drive if formatted correctly?
 * Ability to view VST GUIs on tablet/phone with VNC enabled.
 
