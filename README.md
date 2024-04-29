@@ -28,7 +28,9 @@ A base specification for manufacturing components with consumer programmable man
 
 * Chassis: Simple, flat design, ideally with a "suitcase" option, with mount points for all hardware. One and two-manual options?
 * MIDI handler: Some black box which maps physical controls to MIDI which is sent to the CPU
-* CPU: An x86 or ARM Linux computer for running software VSTs and other configuration software
+* Computer: An x86 or ARM Linux computer for running software VSTs and other configuration software
+* Redundancy interface: A way to quickly swap out the computer for a tested backup
+  (hot-swap would be cool, but how feasible is it?)
 
 
 #### Controls
